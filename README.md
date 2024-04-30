@@ -1,4 +1,4 @@
-# Date Counter
+# Flash Cards
 
 ## Table of contents
 
